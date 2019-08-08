@@ -1,0 +1,6 @@
+.idea/**
+target
+*.pid
+*.iml
+logs/
+*.log
